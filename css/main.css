@@ -24,3 +24,22 @@ html {
 body {
   margin: 0;
 }
+
+.watermelon {
+  background-color: #e97065;
+  font-family: Rammetto One;
+}
+
+.starfruit {
+  background-color: #fbd25e;
+  font-family: Gravitas One;
+}
+
+.persimmon {
+  background-color: #e86033;
+  font-family: Comfortaa;
+}
+
+p {
+  font-family: Open Sans;
+}
